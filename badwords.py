@@ -187,23 +187,23 @@ BadWords = [
     "kill urself",
     "killurself",
     " r.a.pe",
-    "rаpe", #russian character which looks like an english a
-    "r.аpe", #russian character which looks like an english a
-    "rа.pe", #russian character which looks like an english a
-    "r.а.p.e", #russian character which looks like an english a
-    "r.а.pe", #russian character which looks like an english a
-    "r.аp.e", #russian character which looks like an english a
-    "rаpе", #russian characters which looks like an english a and e
-    "r.аpе", #russian characters which looks like an english a and e
-    "rа.pе", #russian characters which looks like an english a and e
-    "r.а.p.е", #russian characters which looks like an english a and e
-    "r.аp.е", #russian characters which looks like an english a and e
-    "kіll yourself", #russian character which looks like an english i
-    "kіll yоursеlf", #russian characters which look like an english i, o, and e
-    "fаggot", #russian character which looks like an a
-    "fаggоt", #russian character which looks like an a and o
-    "nіggеr", #russian character looking like an i and e
-    "nіgger" #russian character looking like an i
+    "rаpe", #russian characters
+    "r.аpe", #russian characters
+    "rа.pe", #russian characters
+    "r.а.p.e", #russian characters
+    "r.а.pe", #russian characters
+    "r.аp.e", #russian characters
+    "rаpе", #russian characters
+    "r.аpе", #russian characters
+    "rа.pе", #russian characters
+    "r.а.p.е", #russian characters
+    "r.аp.е", #russian characters
+    "kіll yourself", #russian characters
+    "kіll yоursеlf", #russian characters
+    "fаggot", #russian characters
+    "fаggоt", #russian characters
+    "nіggеr", #russian characters
+    "nіgger" #russian characters
 ]
 
 ExtendedBadWords = [
