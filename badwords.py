@@ -187,23 +187,23 @@ BadWords = [
     "kill urself",
     "killurself",
     " r.a.pe",
-    "rаpe", #russian characters
-    "r.аpe", #russian characters
-    "rа.pe", #russian characters
-    "r.а.p.e", #russian characters
-    "r.а.pe", #russian characters
-    "r.аp.e", #russian characters
-    "rаpе", #russian characters
-    "r.аpе", #russian characters
-    "rа.pе", #russian characters
-    "r.а.p.е", #russian characters
-    "r.аp.е", #russian characters
-    "kіll yourself", #russian characters
-    "kіll yоursеlf", #russian characters
-    "fаggot", #russian characters
-    "fаggоt", #russian characters
-    "nіggеr", #russian characters
-    "nіgger" #russian characters
+    "rаpe", #russian character(s), not duplicate.
+    "r.аpe", #russian character(s), not duplicate.
+    "rа.pe", #russian character(s), not duplicate.
+    "r.а.p.e", #russian character(s), not duplicate.
+    "r.а.pe", #russian character(s), not duplicate.
+    "r.аp.e", #russian character(s), not duplicate.
+    "rаpе", #russian character(s), not duplicate.
+    "r.аpе", #russian character(s), not duplicate.
+    "rа.pе", #russian character(s), not duplicate.
+    "r.а.p.е", #russian character(s), not duplicate.
+    "r.аp.е", #russian character(s), not duplicate.
+    "kіll yourself", #russian character(s), not duplicate.
+    "kіll yоursеlf", #russian character(s), not duplicate.
+    "fаggot", #russian character(s), not duplicate.
+    "fаggоt", #russian character(s), not duplicate.
+    "nіggеr", #russian character(s), not duplicate.
+    "nіgger" #russian character(s), not duplicate.
 ]
 
 ExtendedBadWords = [
@@ -217,5 +217,6 @@ ExtendedBadWords = [
     " f.u.c.k ",
     " f.uck ",
     " f.u.ck",
-    " fu.c.k"
+    " fu.c.k",
+    "fuсk" #russian character(s), not duplicate.
 ]
