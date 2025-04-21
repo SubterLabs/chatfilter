@@ -183,7 +183,27 @@ BadWords = [
     " discord.gg/ ",
     " .gg/austiverse ", #austiblox invite
     " .gg/kamari ", #shitty hexagon
-    " .gg/ "
+    " .gg/ ",
+    "kill urself",
+    "killurself",
+    " r.a.pe",
+    "rаpe", #russian character which looks like an english a
+    "r.аpe", #russian character which looks like an english a
+    "rа.pe", #russian character which looks like an english a
+    "r.а.p.e", #russian character which looks like an english a
+    "r.а.pe", #russian character which looks like an english a
+    "r.аp.e", #russian character which looks like an english a
+    "rаpе", #russian characters which looks like an english a and e
+    "r.аpе", #russian characters which looks like an english a and e
+    "rа.pе", #russian characters which looks like an english a and e
+    "r.а.p.е", #russian characters which looks like an english a and e
+    "r.аp.е", #russian characters which looks like an english a and e
+    "kіll yourself", #russian character which looks like an english i
+    "kіll yоursеlf", #russian characters which look like an english i, o, and e
+    "fаggot", #russian character which looks like an a
+    "fаggоt", #russian character which looks like an a and o
+    "nіggеr", #russian character looking like an i and e
+    "nіgger" #russian character looking like an i
 ]
 
 ExtendedBadWords = [
@@ -195,5 +215,7 @@ ExtendedBadWords = [
     " fu.ck ",
     " fuc.k ",
     " f.u.c.k ",
-    " f.uck "
+    " f.uck ",
+    " f.u.ck",
+    " fu.c.k"
 ]
