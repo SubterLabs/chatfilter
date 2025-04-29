@@ -273,6 +273,9 @@ BadWords = [
     "conchetumadre", #spanish bad words
     "pija", #spanish bad words
     "mrd", #spanish bad words
+    "negro", #spanish bad words
+    "puta", #spanish bad words
+    "conchudo", #spanish bad words
     "kyѕ", #russian character(s)
     "pekora.zip" #pekora
 ]
