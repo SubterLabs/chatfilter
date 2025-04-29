@@ -169,7 +169,7 @@ BadWords = [
     "yeahtwos",
     "egg",
     "nut",
-    "kys",
+    "kkk",
     "killyourself",
     "kill yourself",
     "ku klux klan",
