@@ -256,7 +256,23 @@ BadWords = [
     "nіgg.еr", #russian character(s)
     "nіggе.r", #russian character(s)
     "n.і.g.g.е.r", #russian character(s)
-    "kyѕ" #russian character(s)
+    "kyѕ", #russian characters
+    " puto ",
+    " puta madre ",
+    " puto padre ",
+    " gil ",
+    " boludo ",
+    " pelotudo "
+    " hijo de puta ",
+    " hdp ",
+    " forro ",
+    " mierda ",
+    " concha de la lora ",
+    " pendejo ",
+    " hijueputa ",
+    " conchetumadre ",
+    " pija ",
+    " mrd "
 ]
 
 ExtendedBadWords = [
