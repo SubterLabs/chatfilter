@@ -99,7 +99,7 @@ BadWords = [
     "isis",
     "allahu",
     "akbar",
-    "besatiality",
+    "beastiality",
     "buttfuck",
     "circlejerk",
     "cum",
