@@ -256,6 +256,23 @@ BadWords = [
     "nіgg.еr", #russian character(s)
     "nіggе.r", #russian character(s)
     "n.і.g.g.е.r", #russian character(s)
+    "kyѕ", #russian characters
+    "puto", #spanish bad words
+    "puta madre", #spanish bad words
+    "puto padre", #spanish bad words
+    "gil", #spanish bad words
+    "boludo", #spanish bad words
+    "pelotudo" #spanish bad words
+    "hijo de puta", #spanish bad words
+    "hdp", #spanish bad words 
+    "forro", #spanish bad words
+    "mierda", #spanish bad words
+    "concha de la lora", #spanish bad words
+    "pendejo", #spanish bad words
+    "hijueputa", #spanish bad words
+    "conchetumadre", #spanish bad words
+    "pija", #spanish bad words
+    "mrd", #spanish bad words
     "kyѕ", #russian character(s)
     "pekora.zip" #pekora
 ]
